@@ -1,4 +1,4 @@
-Welcome to Assignment 2!
+# Welcome to Assignment 2! [Description of My Solution (russian)](https://github.com/UzunDemir/CS224N/blob/main/assingment_2/student/description.md)
 
 We'll be using PyTorch for this assignment. If you're not familiar with PyTorch, or if you would like to review some of the fundamentals of PyTorch,
 the PyTorch review session is posted on Canvas under Course Videos.
@@ -34,3 +34,6 @@ If you would like to instead create a new environment for this assignment, pleas
 # To deactivate an active environment, use
     
     conda deactivate
+
+
+
